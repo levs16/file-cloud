@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Горшок -->
+  <rect x="70" y="150" width="60" height="30" rx="5" fill="#8B5E3C"/>
+  
+  <!-- Ствол кактуса -->
+  <rect x="90" y="60" width="20" height="90" rx="10" fill="#22C55E"/>
+
+  <!-- Левая ветка -->
+  <rect x="60" y="90" width="20" height="50" rx="10" fill="#22C55E"/>
+  <circle cx="70" cy="90" r="10" fill="#22C55E"/>
+
+  <!-- Правая ветка -->
+  <rect x="120" y="100" width="20" height="40" rx="10" fill="#22C55E"/>
+  <circle cx="130" cy="100" r="10" fill="#22C55E"/>
+</svg>
